@@ -10,9 +10,7 @@ DAG - https://github.com/Deni1006/retail_dwh/blob/main/dags/load_superstore_to_r
 
 Инициализация пакета - https://github.com/Deni1006/retail_dwh/blob/main/plugins/operators/__init__.py
 
-Пояснения к заданиям:
-
-## Hook к PostgreSQL
+## Пояснения к заданиям:
 
 В интерфейсе Airflow (Admin → Connections) создано подключение с параметрами:
 
