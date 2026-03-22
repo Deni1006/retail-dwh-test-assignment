@@ -35,7 +35,7 @@ conn = hook.get_conn()
 Hook сам извлекает параметры подключения из созданного Connection в  Airflow UI.
 
 ## Задание 2. Свой оператор Apache Airflow
-Создан кастомный оператор CsvToPostgresOperator в файле:
+Создан кастомный оператор CsvToPostgresOperator в папке:
 plugins/operators/
 
 Оператор принимает три параметра:
