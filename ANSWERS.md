@@ -1,5 +1,7 @@
 # Ответы на тестовое задание
 
+## Задание 1. Сделать Hook и Connection в Airflow
+
 Для просмотра результата можно перейти по ссылкам: 
 
 DAG - https://github.com/Deni1006/retail_dwh/blob/main/dags/load_superstore_to_raw_superstore.py
@@ -10,7 +12,7 @@ DAG - https://github.com/Deni1006/retail_dwh/blob/main/dags/load_superstore_to_r
 
 Пояснения к заданиям:
 
-## Задание 1. Hook к PostgreSQL
+## Hook к PostgreSQL
 
 В интерфейсе Airflow (Admin → Connections) создано подключение с параметрами:
 
